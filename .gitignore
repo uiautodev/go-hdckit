@@ -1,0 +1,6 @@
+/go-hdckit
+/hdccli
+/dist
+*.hap
+frames/
+.DS_Store
